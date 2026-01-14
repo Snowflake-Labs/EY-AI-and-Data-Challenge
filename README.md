@@ -1,9 +1,14 @@
-[![Snowflake - Certified](https://img.shields.io/badge/Snowflake-Certified-2ea44f?style=for-the-badge&logo=snowflake)](https://developers.snowflake.com/solutions/)
-
-# Getting Started with ML Development in Snowflake
+# EY AI & Data Challenge
 
 ## Overview
-Through this quickstart guide, you will learn how to get started with Machine Learning in Snowflake. You will build a simple ML development workflow from feature engineering to model training and inference using Snowflake ML in Snowflake Notebooks on Container Runtime.
+This repo contains resources for participants in the global virtual event: [EY AI & Data Challenge](https://challenge.ey.com/?utm_medium=institutions&utm_source=snowflake&utm_campaign=github_repo).
+
+In order to participate, it is required that you register on the Challenge Portal, and click the custom signup link to create a Snowflake Account. 
 
 ## Step-By-Step Guide
-For prerequisites, setup, step-by-step guide and instructions, please refer to the [QuickStart Guide](https://quickstarts.snowflake.com/guide/intro_to_machine_learning_with_snowpark_ml_for_python/index.html?index=..%2F..index#0).
+For prerequisites, setup, step-by-step guide and instructions, please refer to the [Developer Guide](https://www.snowflake.com/en/developers/guides/ey-ai-and-data-challenge/).
+
+This repo contains materials for the challenge, and additional materials in the folder sample_notebooks, from a Developer Guide called ["Getting Started with Machine Learning Development in Snowflake"](https://www.snowflake.com/en/developers/guides/intro-to-machine-learning-with-snowpark-ml-for-python/#0).
+
+In this Developer Guide, you will build a simple ML development workflow from feature engineering to model training and inference using Snowflake ML in Snowflake Notebooks on Container Runtime. 
+
